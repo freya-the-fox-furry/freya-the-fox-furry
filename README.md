@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="600" height="300" alt="2026-07-08-Hi-everyone-" src="https://github.com/user-attachments/assets/a5d1672b-d388-4564-8f95-a6b9d6715a0c" />
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=200&duration=1250&pause=1000&color=00F71D&center=true&vCenter=true&width=600&lines=Hello%2C+everyone.+I+am+FreyaTheFox.;I+write+code+mainly+in+HTML+%2F+Python;I+am+a+game+designer!;Check+out+my+socials+at+the+bottom+of+my+profile!)](https://git.io/typing-svg)
 
 <!--
 **freya-the-fox-furry/freya-the-fox-furry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
