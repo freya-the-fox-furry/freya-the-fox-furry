@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![App Screenshot](screenshot.png)
+<img width="600" height="300" alt="2026-07-08-Hi-everyone-" src="https://github.com/user-attachments/assets/a5d1672b-d388-4564-8f95-a6b9d6715a0c" />
 
 <!--
 **freya-the-fox-furry/freya-the-fox-furry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
