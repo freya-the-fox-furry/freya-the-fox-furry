@@ -1,8 +1,12 @@
-## Hi there 👋
+## Welcome!!
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&weight=200&duration=1250&pause=1000&color=00F71D&center=true&vCenter=true&width=600&lines=Hello%2C+everyone.+I+am+FreyaTheFox.;I+write+code+mainly+in+HTML+%2F+Python;I+am+a+game+designer!;Check+out+my+socials+at+the+bottom+of+my+profile!" alt="Typing SVG" /></a>
 </div>
 
+As stated above, my name is Freya! 
+I design mainly using Python and HTML (penguinmod as well!)
+
+~ Part of Knights of Dev ~
 <!--
 **freya-the-fox-furry/freya-the-fox-furry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
