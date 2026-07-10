@@ -3,8 +3,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&weight=200&duration=1250&pause=1000&color=00F71D&center=true&vCenter=true&width=600&lines=Hello%2C+everyone.+I+am+FreyaTheFox.;I+write+code+mainly+in+HTML+%2F+Python;I+am+a+game+designer!;Check+out+my+socials+at+the+bottom+of+my+profile!" alt="Typing SVG" /></a>
 </div>
 
-As stated above, my name is Freya! 
+As stated above, my name is Freya! :3
 I design mainly using Python and HTML (penguinmod as well!)
+My pronouns are she/her.
 
 ~ Part of Knights of Dev ~
 <!--
